@@ -76,6 +76,7 @@ public class TestTaskTwo {
 
     /*
      * Checks for the "View All" link on /list
+     * comment
      * */
     @Test
     public void testViewAllLinkExists() throws Exception {
